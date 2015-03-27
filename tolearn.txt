@@ -1,0 +1,9 @@
+Things to learn:
+
+1: Angular - duh
+1.1: Services. What are they and how are they different.
+2: grunt vs gulp
+3: angular routing
+4: angular sanitize
+5: angular animate
+6: angular cookies
